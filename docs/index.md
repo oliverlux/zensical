@@ -4,7 +4,8 @@ icon: lucide/rocket
 
 # Dokumentationen
 
-Unter diesem Webauftritt werden verschiedene zusätzliche Informationen zum Unterricht von Oliver Lux geführt.
+Unter diesem Webauftritt werden verschiedene zusätzliche Informationen zum Unterricht oder weitere Gedanken von Oliver Lux geführt.
 
-Kommentare und Verbesserungsvorschläge können als Pull Request über GitHub eingereicht werden.
+!!! note "Mitarbeit"
+    Kommentare und Verbesserungsvorschläge können als Pull Request über GitHub eingereicht werden. Ich freue mich über Rückmeldungen.
 

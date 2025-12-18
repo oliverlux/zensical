@@ -2,7 +2,7 @@
 icon: lucide/brain-circuit
 ---
 
-# Einsatz von KI-/LLM-Tools 
+# Einsatz von KI-/LLM-Tools am GBS
 
 Als KI-/LLM-Tools werden alle Programme und Dienste bezeichnet, die künstliche Intelligenz oder Large Language Models zur Textgenerierung verwenden, unabhängig davon, ob sie Teile eines Textverarbeitungsprogramms sind oder nicht. Beispiele sind ChatGPT, neuroflash, Bing o.ä. 
 
