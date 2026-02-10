@@ -22,7 +22,7 @@ site_description = "Verschiedene Dokumentationen von Oliver Lux."
 # The site_author attribute. This is used in the HTML head element.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_author
-site_author = "Oliver Lux"
+site_author = "Oliver Lux "
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
@@ -302,5 +302,3 @@ logo = "lucide/notepad-text"
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/oliverlux/zensical"
-
-
