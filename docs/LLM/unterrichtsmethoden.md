@@ -1,5 +1,13 @@
 ---
 icon: lucide/graduation-cap
+title: Eisvogel Template
+format:
+  eisvogel-pdf:
+    titlepage: true
+    toc: true
+    number-sections: true
+author: Oliver Lux
+date: 13. Januar 2026
 ---
 
 # Lehrmethoden mit und trotz LLMs

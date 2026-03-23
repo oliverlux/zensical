@@ -1,5 +1,13 @@
 ---
 icon: lucide/brain-circuit
+title: Eisvogel Template
+format:
+  eisvogel-pdf:
+    titlepage: true
+    toc: true
+    number-sections: true
+author: John Doe
+date: last-modified
 ---
 
 # Einsatz von KI-/LLM-Tools am GBS

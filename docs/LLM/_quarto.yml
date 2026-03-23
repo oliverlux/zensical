@@ -1,0 +1,9 @@
+format:
+  eisvogel-pdf:
+    titlepage: true
+    toc: true
+    number-sections: true
+    titlepage-logo: cover.png
+
+execute:
+  freeze: true
