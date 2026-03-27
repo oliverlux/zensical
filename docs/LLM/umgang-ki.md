@@ -1,6 +1,6 @@
 ---
 icon: lucide/brain-circuit
-title: Eisvogel Template
+title: Umgang mit KI
 format:
   eisvogel-pdf:
     titlepage: true

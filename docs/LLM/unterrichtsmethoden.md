@@ -1,6 +1,6 @@
 ---
 icon: lucide/graduation-cap
-title: Eisvogel Template
+title: Unterrichtsmethoden mit und trotz KI
 format:
   eisvogel-pdf:
     titlepage: true
